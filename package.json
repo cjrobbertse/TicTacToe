@@ -1,0 +1,25 @@
+{
+  "name": "tictactoe",
+  "version": "0.0.1",
+  "description": "The greatest tictac game ever created",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjrobbertse/TicTacToe.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Christopher Robbertse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cjrobbertse/TicTacToe/issues"
+  },
+  "homepage": "https://github.com/cjrobbertse/TicTacToe#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}

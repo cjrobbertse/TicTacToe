@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+  game:
+    build: .
+    ports: 
+      - "5654:5654"
